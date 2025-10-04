@@ -1,3 +1,5 @@
+// controller e view tudo junto
+
 package view;
 
 import java.util.Scanner;
@@ -23,3 +25,4 @@ public class PinguinsLogica {
 		ler.close();
 	}
 }
+
